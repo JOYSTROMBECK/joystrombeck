@@ -1,6 +1,6 @@
 
 # Hi there, I'm Joy! 👩🏽‍💻
-A FrontEnd Developer 
+A FrontEnd Developer
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=joystrombeck&show_icons=true&theme=radical" />
